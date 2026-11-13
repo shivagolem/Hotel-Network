@@ -1,0 +1,9 @@
+# Cisco Packet Tracer backup files
+*.pkt.bak
+*.pka.bak
+*.tmp
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
